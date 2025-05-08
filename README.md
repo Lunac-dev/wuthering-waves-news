@@ -10,8 +10,6 @@ A lightweight REST API that periodically scrapes official news for [Wuthering Wa
 - 🧩 Built with Node.js, Express, Puppeteer, and Proxy rotation
 - 🚀 Ready for deployment on Railway, Render, or any Node.js host
 
----
-
 ## 📦 Installation
 
 ```bash
@@ -23,7 +21,14 @@ node index.js
 
 ## 🔌 API Endpoints
 
+Base URL: https://wuthering-waves-news.up.railway.app
+
 | Route          | Description                  |
 | -------------- | ---------------------------- |
 | `/api/news`    | Returns cached Japanese news |
 | `/api/news/en` | Returns cached English news  |
+
+## ⚠️ Disclaimer
+
+This project is not affiliated with Kuro Games or Wuthering Waves.
+Please use responsibly and in accordance with [wutheringwaves.kurogames.com](https://wutheringwaves.kurogames.com/)'s terms of service.
