@@ -1,3 +1,5 @@
+> [!IMPORTANT]
+> The Railway hosting period has expired, so https://wuthering-waves-news.up.railway.app is no longer available. We apologize for the inconvenience and kindly ask that you host it yourself if needed.
 # Wuthering News API
 
 A lightweight REST API that periodically scrapes official news for [Wuthering Waves](https://wutheringwaves.kurogames.com) (鳴潮), with support for both Japanese and English versions.
